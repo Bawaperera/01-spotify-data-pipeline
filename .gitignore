@@ -1,0 +1,12 @@
+data/raw/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.sqlite3
+data/processed/*.db
