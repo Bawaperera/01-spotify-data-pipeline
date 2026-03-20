@@ -175,7 +175,3 @@ streamlit run dashboard/app.py
 - Building a multi-table SQLite schema and a SQL query abstraction layer
 - Dashboard design principles: KPIs first, filters in sidebar, interactive charts with Plotly
 - Git workflow for data projects: gitignoring raw data while committing processed outputs
-
-## License
-
-MIT - free to use, modify, and distribute.
