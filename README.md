@@ -178,4 +178,4 @@ streamlit run dashboard/app.py
 
 ## License
 
-MIT — free to use, modify, and distribute.
+MIT - free to use, modify, and distribute.
